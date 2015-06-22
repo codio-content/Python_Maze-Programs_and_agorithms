@@ -18,25 +18,22 @@ A function is nothing more than an instruction that itself consists of one or mo
 ## `if`
 You'll also learn about `if` before long. There's no mystery to it, though. The line
 
-```javascript
-if (takesSugar == true) 
+```python
+if takesSugar == True:
   addSugar()
 ```
 
-simply means "if it is true that you take sugar, then add sugar."
+simply means "if it is True that you take sugar, then add sugar."
 
 ## `while`
 The `while` insruction is a so-called loop, another important but easy thing we'll cover in detail later.
 
-```javascript
-while (kettleBoiled == false) {
-  snapChat()
-}
+```python
+while kettleBoiled == False:
+  useSnapChat()
 ```
 
 ... means "while (as long as) the kettle has not yet boiled, do some Snapchatting.".
 
 ## Have no fear!!!
 While these things look mysterious, we'll teach you to get comfortable with them and use a game so you can actually try them out.
-
-

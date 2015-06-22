@@ -13,7 +13,7 @@ Full mapping details will be inserted here in August 2015.
 - Sequence
 - Introduction to the concept of an algorithm
 - Introduction to flow charts
-- Showing what Javascript looks like
+- Showing what Python looks like
 - Simple algorithm challenges
 
 |||

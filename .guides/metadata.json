@@ -50,7 +50,7 @@
      "action": "close"
     },
     {
-     "path": "public/content/js/tea-1.js",
+     "path": "public/content/python/tea-1.py",
      "panel": 0,
      "action": "open"
     }
@@ -127,14 +127,14 @@
   },
   {
    "id": "54e264b0-7afa-4f1f-9b27-6a8694432418",
-   "title": "More Javascript code",
+   "title": "More Python code",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "public/content/js/tea-2.js",
+     "path": "public/content/python/tea-2.py",
      "panel": 0,
      "action": "open"
     }
@@ -142,7 +142,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/More-Javascript-code-54e2.md"
+   "content-file": ".guides/content/More-Python-code-54e2.md"
   },
   {
    "id": "3c87f065-fa0c-fb4a-7a96-f596ac2d8ce6",
