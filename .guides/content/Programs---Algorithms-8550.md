@@ -8,7 +8,6 @@ Before we start, here are some tools for you to be aware of for using the Codio 
 
 |||topic
 ## OCR Curriculum Mapping
-Full mapping details will be inserted here in August 2015.
 
 - Sequence
 - Introduction to the concept of an algorithm
