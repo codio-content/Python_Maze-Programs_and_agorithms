@@ -3,7 +3,7 @@
 
 By doing this, you are taking our tea-making algorithm and constructing the sequence of steps in the same way that real programs are written.
 
-Before long, we'll be doing this for real using and controlling a simple game.
+Before long, we'll be doing this for real to use and control a simple game.
 
 |||guidance
 

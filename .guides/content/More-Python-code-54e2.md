@@ -16,7 +16,7 @@ The `()` means that `switchOnKettle` and all other instructions with `()` are *f
 A function is nothing more than an instruction that itself consists of one or more steps. We have not shown these here and we will explain these in plenty of detail when we start writing some proper code.
 
 ## `if`
-You'll also learn about `if` before long. There's no mystery to it, though. The line
+You'll also learn about `if` before long. There's no mystery to it, though. The line:
 
 ```python
 if takesSugar == True:
@@ -36,4 +36,4 @@ while kettleBoiled == False:
 ... means "while (as long as) the kettle has not yet boiled, do some Snapchatting.".
 
 ## Have no fear!!!
-While these things look mysterious, we'll teach you to get comfortable with them and use a game so you can actually try them out.
+While these things look mysterious, we'll teach you to get comfortable with them by programming a game so you can actually try them out.
